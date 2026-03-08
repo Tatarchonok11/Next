@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">design-system</string>
+
+    <!-- Home Screen -->
+
+    <string name="viewTask">View Task</string>
+    <string name="inProgress">In Progress</string> <!-- It is also used in calendar screen -->
+    <string name="taskGroups">Task Groups</string>
+    <string name="seventyTasks">Your today’s task almost done!</string>
+    <string name="fiftyTasks">You have completed half of the tasks!</string>
+    <string name="notCompleteTasks">Its time to complete the tasks!</string>
+
+    <!-- Calendar Screen -->
+
+    <string name="todaysTasks">Todays Tasks</string>
+    <string name="all">All</string>
+    <string name="toDo">To Do</string>
+    <string name="completed">Completed</string>
+
+    <!-- Task Creation/Editing Screen -->
+
+    <string name="addTask">Add Task</string>
+    <string name="editTask">Edit Task</string>
+    <string name="taskGroup">Task Group</string>
+    <string name="taskName">Task Name</string>
+    <string name="description">Description</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+
 </resources>
